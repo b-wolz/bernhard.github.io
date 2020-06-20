@@ -6,9 +6,11 @@ Alexander Grothendieck (geb. 28. März 1928 in Berlin; gest. 13. November 2014 i
 * Peculiar
 * Strange
 * Mystical
+
 Quote of Alexander Grothendieck:
 > The introduction of the digit 0 or the group concept 
 > was general nonsense too, and mathematics was more 
 > or less stagnating for thousands of years because 
 > nobody was around to take such childish steps...
+
 ![Picture of Alexander Grothendieck](https://en.wikiquote.org/wiki/File:Alexander_Grothendieck.jpg "Alexander Grothendieck")
