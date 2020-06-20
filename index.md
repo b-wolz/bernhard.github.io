@@ -13,4 +13,6 @@ Quote of Alexander Grothendieck:
 > or less stagnating for thousands of years because 
 > nobody was around to take such childish steps...
 
-![Picture of Alexander Grothendieck](https://upload.wikimedia.org/wikipedia/commons/e/ef/Alexander_Grothendieck.jpg "Alexander Grothendieck")
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Alexander_Grothendieck.jpg"/>
+
